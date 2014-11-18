@@ -1,0 +1,51 @@
+State,PrisonPop2010,VotingLaws,DeathPenalty,Executed,ExecutedWhite,ExecutedBlack,DeathRowPop,DeathRowWhite,DeathRowBlack
+Alabama,31561,Permanent,YES,5,4,1,201,102,98
+Alaska,5204,IncarcerationParoleProbabtion,NO,0,0,0,0,0,0
+Arizona,40523,Permanent,YES,1,1,0,133,104,20
+Arkansas,15171,IncarcerationParoleProbabtion,YES,0,0,0,42,17,24
+California,169413,IncarerationParole,YES,0,0,0,699,403,255
+Colorado,22795,IncarerationParole,YES,0,0,0,3,0,3
+Connecticut,19716,IncarerationParole,NO,0,0,0,10,4,6
+Delaware,6775,Permanent,YES,0,0,0,17,9,8
+Florida,103915,Permanent,YES,1,1,0,392,253,139
+Georgia,53562,IncarcerationParoleProbabtion,YES,2,2,0,100,52,48
+Hawaii,5891,Incarceration ,NO,0,0,0,0,0,0
+Idaho,7400,IncarcerationParoleProbabtion,YES,0,0,0,16,16,0
+Illinois,45161,Incarceration,NO,0,0,0,15,11,4
+Indiana,29818,Incarceration,YES,0,0,0,13,10,3
+Iowa,8485,Permanent,NO,0,0,0,0,0,0
+Kansas,8641,IncarcerationParoleProbabtion,YES,0,0,0,8,5,3
+Kentucky,21416,Permanent,YES,0,0,0,34,29,5
+Louisiana,39780,IncarcerationParoleProbabtion,YES,1,1,0,84,29,54
+Maine,2226,Unrestricted,NO,0,0,0,0,0,0
+Maryland,22009,IncarcerationParoleProbabtion,NO,0,0,0,5,1,4
+Massachusetts,11156,Incarceration,NO,0,0,0,0,0,0
+Michigan,45478,Incarceration,NO,0,0,0,0,0,0
+Minnesota,10064,IncarcerationParoleProbabtion,NO,0,0,0,0,0,0
+Mississippi,21521,Permanent,YES,3,3,0,60,26,33
+Missouri,30792,IncarcerationParoleProbabtion,YES,0,0,0,49,28,21
+Montana,3605,Incarceration,YES,0,0,0,2,2,0
+Nebraska,4490,Permanent,YES,0,0,0,12,8,2
+Nevada,12539,Permanent,YES,0,0,0,81,48,32
+New Hampshire,2731,Incarceration,YES,0,0,0,1,0,1
+New Jersey,23531,IncarcerationParoleProbabtion,NO,0,0,0,0,0,0
+New Mexico,6578,IncarcerationParoleProbabtion,NO,0,0,0,2,2,0
+New York,58648,IncarcerationParole ,NO,0,0,0,0,0,0
+North Carolina,39871,IncarcerationParoleProbabtion,YES,0,0,0,158,66,84
+North Dakota,1486,Incarceration,NO,0,0,0,0,0,0
+Ohio,51606,Incarceration,YES,8,3,5,157,75,80
+Oklahoma,26397,IncarcerationParoleProbabtion,YES,3,2,1,71,37,30
+Oregon,14404,Incarceration,YES,0,0,0,34,28,4
+Pennsylvania,51429,Incarceration,YES,0,0,0,215,78,128
+Rhode Island,3674,Incarceration,NO,0,0,0,0,0,0
+South Carolina,24091,IncarcerationParoleProbabtion,YES,0,0,0,56,24,32
+South Dakota,3434,IncarcerationParoleProbabtion,YES,0,0,0,2,2,0
+Tennessee,27373,Permanent,YES,0,0,0,86,49,35
+Texas,171249,IncarcerationParoleProbabtion,YES,17,12,5,315,186,123
+Utah,6535,Incarceration,YES,1,1,0,9,7,1
+Vermont,2221,Unrestricted,NO,0,0,0,0,0,0
+Virginia,38081,Permanent,YES,,,,,,
+Washington,18233,IncarcerationParoleProbabtion,YES,1,1,0,8,5,3
+West Virginia,6367,IncarcerationParoleProbabtion,NO,3,3,0,988,616,318
+Wisconsin,23112,IncarcerationParoleProbabtion,NO,0,0,0,0,0,0
+Wyoming,2075,Permanent,YES,0,0,0,1,1,0
